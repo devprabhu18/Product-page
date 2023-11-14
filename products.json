@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "name":" GO RUN PRO 3",
+        "price": 1999,
+        "image": "image/1.png",
+        "des":"Men's Running shoes with memory foam insole and comfoortable design."
+    },
+    {
+        "id": 2,
+        "name":" ADIDAS SAMBA",
+        "price": 8499,
+        "image": "image/2.png",
+        "des":"Ultra comfortable running shoes made on part with Parley Ocean plasic."
+    },
+    {
+        "id": 3,
+        "name":" NIKE DUNK TWIST",
+        "price": 8499,
+        "image": "image/3.png",
+        "des":"Men,s low top twist design Sneakers made for all-round usage"
+    },
+    {
+        "id": 4,
+        "name":" PUMA RSX 10",
+        "price": 11990,
+        "image": "image/4.png",
+        "des":"Men's colour Blocked shoes "
+        
+    },
+    {
+        "id": 5,
+        "name":" REEBOK CLASSIC ",
+        "price": 8999,
+        "image": "image/5.png",
+        "des":"Unisex walking shoes with cloud foam insole"
+    },
+    {
+        "id": 6,
+        "name":" ASICS EX89",
+        "price": 7999,
+        "image": "image/6.png",
+        "des":" Unisex sneakers with air-filled insole for added comfort."
+    },
+    {
+        "id": 7,
+        "name":" FILA GHOST ",
+        "price": 2900,
+        "image": "image/7.png",
+        "des":"Men's Dailywear Sneakers."
+    },
+    {
+        "id": 8,
+        "name":" ELEVAR RETROGAZE",
+        "price": 2900,
+        "image": "image/8.png",
+        "des":"Unisex Running/Gym Shoes "
+    }
+
+]
